@@ -1,5 +1,2 @@
 text 1
 
-second changed
-
-third changed

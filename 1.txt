@@ -1,2 +1,6 @@
 text 1
 
+<<<<<<< HEAD
+=======
+second changed
+>>>>>>> parent of 6c1969f... no message

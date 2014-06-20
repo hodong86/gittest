@@ -1,10 +1,6 @@
 text 1
 
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
-second changed
->>>>>>> parent of 6c1969f... no message
 =======
 second changed
 >>>>>>> parent of 6c1969f... no message
